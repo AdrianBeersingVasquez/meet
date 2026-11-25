@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projects - Adrian</title>
+    <meta name="description" content="Research, software and data engineering, and education projects by Adrian.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&amp;family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&amp;display=swap">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header class="site-header wrap">
+    <a class="site-name" href="index.html">Adrian Beersing-Vasquez</a>
+    <nav class="site-nav" aria-label="Main">
+        <a href="projects.html" aria-current="page">Projects</a>
+        <a href="assets/cv.pdf">CV</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+</header>
+
+<main class="wrap">
+    <div class="page-head">
+        <h1>All projects</h1>
+        <p class="lead">Research, software and data engineering, and teaching. Filter by area or search by tool or topic.</p>
+    </div>
+
+    <div class="toolbar">
+        <div class="chips" id="area-filters" role="group" aria-label="Filter projects by area"></div>
+        <label class="search">
+            <span>Search</span>
+            <input type="search" id="project-search" placeholder="e.g. Python, modelling" autocomplete="off">
+        </label>
+    </div>
+    <p class="result-count" id="result-count" aria-live="polite"></p>
+
+    <div class="grid" id="project-grid"></div>
+</main>
+
+<footer class="site-footer wrap">
+    <p><a href="contact.html">Get in touch →</a></p>
+</footer>
+
+<script src="js/portfolio.js"></script>
+<script src="js/projects.js"></script>
+</body>
+</html>

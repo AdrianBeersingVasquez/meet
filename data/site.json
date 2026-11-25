@@ -1,0 +1,17 @@
+{
+    "location": "London, UK",
+    "availability": "Open to research and engineering roles",
+    "email": "contact.adrian.bv@gmail.com",
+    "cv": "assets/cv.pdf",
+    "profiles": [
+        { "label": "LinkedIn", "url": "https://www.linkedin.com/in/adrian-beersing-vasquez/", "handle": "" },
+        { "label": "GitHub", "url": "https://github.com/AdrianBeersingVasquez", "handle": "@AdrianBeersingVasquez" },
+        { "label": "Google Scholar", "url": "", "handle": "" },
+        { "label": "ORCID", "url": "", "handle": "" }
+    ],
+    "coaching": {
+        "name": " ",
+        "url": ". ",
+        "note": "Get it touch to explore professional upskilling opportunities"
+    }
+}

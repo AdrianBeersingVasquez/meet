@@ -1,0 +1,81 @@
+[
+    {
+        "id": "mouse-behaviour-tracker",
+        "title": "Live Mouse Behaviour Tracker",
+        "areas": ["research", "software"],
+        "category": "Computer Vision",
+        "featured": 1,
+        "summary": "Real-time animal tracking and behavioural analysis.",
+        "image": "assets/projects/project-05.jpg",
+        "tags": ["C#", "Video Processing"]
+    },
+    {
+        "id": "srnn-heterogeneity",
+        "title": "Heterogeneity in Spiking Recurrent Neural Networks",
+        "areas": ["research"],
+        "category": "AI & Deep Learning",
+        "featured": 2,
+        "summary": "Investigating neural dynamics and variability in spiking networks.",
+        "image": "assets/projects/project-04.jpg",
+        "tags": ["Deep Learning", "Python"]
+    },
+    {
+        "id": "transport-map",
+        "title": "Comparing public transport network connectivities",
+        "areas": ["software"],
+        "category": "Data Visualisation",
+        "featured": 3,
+        "summary": "Spatial analysis and comparison of transport networks.",
+        "image": "assets/projects/project-03.jpg",
+        "tags": ["Full-Stack", "GIS"]
+    },
+    {
+        "id": "ai-analyser",
+        "title": "AI-Powered Personality Analyser",
+        "areas": ["software"],
+        "category": "AI & Machine Learning",
+        "featured": 4,
+        "summary": "An LLM-powered application for personality analysis.",
+        "image": "assets/projects/project-01.jpeg",
+        "tags": ["Full-Stack", "LLM API"]
+    },
+    {
+        "id": "kinetic-proofreading",
+        "title": "Proofreading Molecular Copying Systems",
+        "areas": ["research"],
+        "category": "Computational Biology",
+        "summary": "Modelling molecular copying, accuracy, and error correction.",
+        "image": "assets/projects/project-06.jpg",
+        "tags": ["Biophysics", "Mathematical Modelling"]
+    },
+    {
+        "id": "pyrho-modelling",
+        "title": "Optogenetic Simulation of Bio-inspired Light-Protein Interactions",
+        "areas": ["research"],
+        "category": "Computational Biology",
+        "summary": "Simulating interactions between light and light-sensitive proteins.",
+        "image": "assets/projects/project-07.jpg",
+        "tags": ["Protein Modelling", "Optogenetics"]
+    },
+    {
+        "id": "image-segmenter",
+        "title": "Image Parcellation",
+        "areas": ["software"],
+        "category": "Image Processing",
+        "summary": "Partitioning images into N subregions.",
+        "image": "assets/projects/project-02.jpeg",
+        "tags": ["Python"]
+    },
+    {
+        "id": "educational-coaching",
+        "hidden": true,
+        "title": "[Educational coaching business name]",
+        "areas": ["education"],
+        "category": "Educational Coaching",
+        "summary": "[Professional upskilling for adults: what you teach, who your clients are, and how you built the business.]",
+        "image": "assets/projects/educational-coaching.jpg",
+        "tags": ["Founder", "Adult learning", "Coaching"],
+        "role": "Founder",
+        "timeline": "[Year] – present"
+    }
+]
